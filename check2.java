@@ -6,10 +6,8 @@ public class check2 {
       c.comp(2,3);      
     }
 
-    public int comp(int a, int b){
-
+    public void comp(int a, int b){
         System.out.println(a+b);
-
     }
     int d = 4;
     public int com(){
