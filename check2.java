@@ -1,5 +1,5 @@
 public class check2 {
-    public static void main(Strings[] args)
+    public static void main(String[] args)
     {
       check2 c = new check2();
       System.out.println(c.com());
@@ -12,7 +12,7 @@ public class check2 {
 
     }
     int d = 4;
-    public return com(){
+    public int com(){
         return d;
     }
 }
